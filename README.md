@@ -19,3 +19,7 @@ a running list of writings that I enjoyed.
 * **The Linux Programming Interface** by Michael Kerrisk
 * **Systems Performance: Enterprise and the Cloud** by Brendan Gregg
 * **Designing Data-Intensive Applications** by Martin Kleppmann
+
+#### teamwork
+
+* **Beyond Blame: Learning From Failure and Success** by Dave Zwieback
